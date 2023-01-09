@@ -12,6 +12,7 @@ System.out.println("Java 19 first program");
 
 public static void t1(){
 System.out.println("This is static method");
+//These commect is for git test
 
 }
 public void t2(){
