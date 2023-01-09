@@ -12,14 +12,15 @@ System.out.println("Java 19 first program");
 
 public static void t1(){
 System.out.println("This is static method");
-//These commect is for git test
 
 }
 public void t2(){
 System.out.println("This is non static method");
 }
+// these is not a sample line for git check
 
 public void t3(){
+String str= "Pankaj deshmukh";
 int a=20;
 int b=30;
 int c=a+b;
